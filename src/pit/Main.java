@@ -13,6 +13,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		Security security = new Security();
 		System.out.println(security.getName());
+		security.setName("Whitecap Resources");
+		System.out.println(security.getName());
 	}
 	
 }
