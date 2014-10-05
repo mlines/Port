@@ -1,0 +1,2 @@
+The method setName(String) is undefined for the type SecuritySecurity s = new Security();
+s.setName("Test");
